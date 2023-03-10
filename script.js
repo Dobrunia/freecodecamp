@@ -4,3 +4,5 @@
 2nd type
 */
 
+//Declare JavaScript Variables
+var myName;
